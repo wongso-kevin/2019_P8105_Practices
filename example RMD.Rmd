@@ -2,8 +2,10 @@
 title: "Git/GitHub practice"
 author: "KSW"
 date: "9/12/2019"
-output: html_document
+output: github_document
 ---
+
+This is a test-file for GitHub repo-push
 
 ```{r setup, include = FALSE}
 library(tidyverse)
